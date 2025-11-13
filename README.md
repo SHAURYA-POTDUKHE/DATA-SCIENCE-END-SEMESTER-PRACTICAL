@@ -3,7 +3,6 @@
 # PRN: 22070521011
 # SECTION: A
 # EXPERIMENT: Implementation of Simple Linear Regression on Auto MPG Dataset
-# TASK: Generate README File
 # ---------------------------------------------------------------
 
 readme_content = """
