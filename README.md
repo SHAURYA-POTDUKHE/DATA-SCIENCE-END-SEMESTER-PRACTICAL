@@ -5,7 +5,6 @@
 # EXPERIMENT: Implementation of Simple Linear Regression on Auto MPG Dataset
 # ---------------------------------------------------------------
 
-readme_content = """
 # README
 
 ### NAME: Shaurya Potdukhe
